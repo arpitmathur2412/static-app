@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a developer and a data science enthusiast with a passion for solving problems and creating new things.";
+  "I am a developer with a passion for solving problems and innovating things.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
